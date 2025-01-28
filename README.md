@@ -1,4 +1,4 @@
-# Resume-
+
 
 ##### Name: Fonyuy Verena Monyuyta-ah 
 ##### Address: Tarred Malingo
@@ -13,16 +13,19 @@
           internship in a tech 
           company 
 
+
 ### Qualifications: 
                * Carrer related 
                - Self motivated
                - Hard working 
                - Quick Learner
 
+
 ### Work History: 
               * Intern
               - Camsol
               - Assisted in one                     project 
+
 
 ### Education:
             Present Faculty of
